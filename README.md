@@ -2,13 +2,26 @@
 React App Start with Semantic UI &amp; GitHub Pages
 
 
-[DEMO https://vercel.com](https://vercel.com)
+[DEMO DEPLOYED AT https://vercel.com](https://react-go.now.sh/)
 
 ---
 
-Status of [Action](https://github.com/tom2kota/song/actions) script:
+Status of [Action](https://github.com/tom2kota/react-start/actions/) script:
 
 ![React_App_Deploy_to_gh-pages_CI](https://github.com/tom2kota/react-start/workflows/React_App_Deploy_to_gh-pages_CI/badge.svg)
+
+
+### Semantic UI:
+
+[semantic-ui CDNJS](https://cdnjs.com/libraries/semantic-ui)
+
+``` 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" integrity="sha256-9mbkOfVho3ZPXfM7W8sV2SndrGDuh7wuyLjtsWeTI1Q=" crossorigin="anonymous" />
+```
+
+
+[Layouts](https://semantic-ui.com/usage/layout.html)
+
 
 ### GitHub Pages:
 ----
